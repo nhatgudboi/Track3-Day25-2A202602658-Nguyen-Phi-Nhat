@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Phi Nhật (MSV: 2A202602658)  **Commit:** 828c0a3  **Điểm tự động (`make grade`):** 84.0 / 88 (88/88 khi chấm kèm bộ test ẩn)
+**Họ tên / nhóm:** Nguyễn Phi Nhật (MSV: 2A202602658)  **Commit:** a4a9b29  **Điểm tự động (`make grade`):** 84.0 / 88 (88/88 khi chấm kèm bộ test ẩn)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
